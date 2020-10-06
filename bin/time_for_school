@@ -19,9 +19,6 @@ avi.last_name = "Flombaum"
 
 some_knowledge = avi.teach 
 
-def teaching
-  avi.teach
-end
 
 steve.learn(teaching)
 steve.learn(teaching)
