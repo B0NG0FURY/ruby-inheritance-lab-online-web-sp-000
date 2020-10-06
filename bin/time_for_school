@@ -20,12 +20,12 @@ avi.last_name = "Flombaum"
 some_knowledge = avi.teach 
 
 
-steve.learn(teaching)
-steve.learn(teaching)
-steve.learn(teaching)
+steve.learn(avi.teach)
+steve.learn(avi.teach)
+steve.learn(avi.teach)
 
-ozzy.learn(teaching)
-ozzy.learn(teaching)
+ozzy.learn(avi.teach)
+ozzy.learn(avi.teach)
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
 
