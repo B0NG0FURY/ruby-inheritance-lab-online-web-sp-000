@@ -27,8 +27,8 @@ steve.learn(teaching)
 steve.learn(teaching)
 steve.learn(teaching)
 
-ozzy.learn(some_knowledge)
-ozzy.learn(some_knowledge)
+ozzy.learn(teaching)
+ozzy.learn(teaching)
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
 
