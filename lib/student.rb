@@ -6,4 +6,8 @@ class Student < User
   def learn(string)
     @knowledge.push << string
   end
+  
+  def knowledge
+    @knowledge
+  end
 end
