@@ -23,9 +23,9 @@ def teaching
   avi.teach
 end
 
-steve.learn(some_knowledge)
-steve.learn(some_knowledge)
-steve.learn(some_knowledge)
+steve.learn(teaching)
+steve.learn(teaching)
+steve.learn(teaching)
 
 ozzy.learn(some_knowledge)
 ozzy.learn(some_knowledge)
