@@ -19,6 +19,10 @@ avi.last_name = "Flombaum"
 
 some_knowledge = avi.teach 
 
+def teaching
+  avi.teach
+end
+
 steve.learn(some_knowledge)
 steve.learn(some_knowledge)
 steve.learn(some_knowledge)
