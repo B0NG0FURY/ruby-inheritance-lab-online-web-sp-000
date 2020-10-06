@@ -35,3 +35,5 @@ end
 ozzy.knowledge.each do |knowledge|
   puts knowledge
 end
+
+ozzy.knowledge
